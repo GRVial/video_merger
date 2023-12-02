@@ -1,0 +1,10 @@
+# Ignore all media files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.srt
+*.sub
+*.ass
+*.vtt
