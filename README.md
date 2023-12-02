@@ -4,5 +4,5 @@ WIP
 
 ## Requirements
 
-- [Python](https://www.python.org/) (version X.X)
-- [FFmpeg](https://ffmpeg.org/) (version X.X)
+- [Python](https://www.python.org/)
+- [FFmpeg](https://ffmpeg.org/)
