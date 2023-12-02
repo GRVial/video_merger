@@ -47,4 +47,4 @@ if __name__ == "__main__":
     subtitle_title = input('Nome para trilhas de legenda:')
     files = get_files_name("ep", "sub")
     for ep, sub in files:
-        merge_video_with_subtitle(ep, sub, (ep[3:18] + ".mkv"), "Inglês Trindade")
+        merge_video_with_subtitle(ep, sub, (ep[3:18] + ".mkv"), subtitle_title)
